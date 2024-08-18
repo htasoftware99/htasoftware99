@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, Deep Learning, Image Processing, Natural Language Processing**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Image Processing, Natural Language Processing**
 
 - 📫 How to reach me **hasan.asus1999@gmail.com**
 
