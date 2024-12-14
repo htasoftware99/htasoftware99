@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm HASAN TUĞRA AYKAÇ</h1>
 <h3 align="center">COMPUTER ENGINEER from TÜRKİYE</h3>
-<img align="right" alt="AI" src="https://gifdb.com/images/thumbnail/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Artificial Intelligence<br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, Image Processing, Natural Language Processing<br>💬 Ask me about AI
