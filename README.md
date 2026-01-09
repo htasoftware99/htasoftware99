@@ -37,8 +37,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=htasoftware99&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=htasoftware99&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats-cyan-six-57.vercel.app/api?username=htasoftware99&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&v=1)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=htasoftware99&theme=midnight-purple&hide_border=true)
+<br/>
 ![Top Langs](https://github-readme-stats-cyan-six-57.vercel.app/api/top-langs/?username=htasoftware99&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&v=1)
 
 ---
